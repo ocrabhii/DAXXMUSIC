@@ -21,7 +21,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text=_["S_B_3"],
-                url=f"https://t.me/{app.username}?startgroup=true",
+                url=f"https://t.me/OdishachatRoomm?startgroup=true",
             )
         ],
         [
