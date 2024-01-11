@@ -77,7 +77,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="💌 ɢʀᴏᴜᴘ",
 
-                url=f"{https://t.me/OdishachatRoomm}",
+                url=f"https://t.me/OdishachatRoomm",
 
             ),
         ],
