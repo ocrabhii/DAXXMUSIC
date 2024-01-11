@@ -68,9 +68,9 @@ def stream_markup_timer(_, chat_id, played, dur):
                  [
             InlineKeyboardButton(
 
-                text="ᴅᴇᴠ 💕",
+                text="Abhi",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/GemsSupport_bot",
 
             ),
             InlineKeyboardButton(
