@@ -4,7 +4,7 @@ from DAXXMUSIC import app
 
 
 TMDB_API_KEY = "a06bb6406d93ee9940776804eb69ed7b"
-
+#acess token eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMDZiYjY0MDZkOTNlZTk5NDA3NzY4MDRlYjY5ZWQ3YiIsInN1YiI6IjY1YTNmZDgwMzk1NDlhMDEyOTEwZDFhYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.F9TnueZu5tolQfSWRhvPSZXw4tvC5t4YIg0OpESyfRA
 
 @app.on_message(filters.command("movie"))
 async def movie_command(client, message):
