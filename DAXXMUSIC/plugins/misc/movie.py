@@ -3,7 +3,7 @@ import requests
 from DAXXMUSIC import app
 
 
-TMDB_API_KEY = "23c3b139c6d59ebb608fe6d5b974d888"
+TMDB_API_KEY = "a06bb6406d93ee9940776804eb69ed7b"
 
 
 @app.on_message(filters.command("movie"))
