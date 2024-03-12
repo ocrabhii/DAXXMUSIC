@@ -28,7 +28,7 @@ from pyrogram import filters
 from DAXXMUSIC import app
 
 
-random_user_api_url = 'https://randomuser.me/api/'
+random_user_api_url = 'https://randomuser.me/JEEY-9QNR-QFQV-INRQ/'
 
 
 @app.on_message(filters.command("fake", prefixes="/"))
